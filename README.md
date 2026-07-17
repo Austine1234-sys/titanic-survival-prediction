@@ -1,3 +1,7 @@
+# Live Demo
+Try the app here:https://austine-akhenda-titanic-predictor.streamlit.app/
+
+
 # titanic-survival-prediction
 #Titanic survival prediction model with FastAPI and Streamlit deployment
 # Titanic Survival Prediction
